@@ -3,7 +3,7 @@ include "header.php"
 ?>
 
 <body class="b-g" id="background">
-<audio src="paranoid.mpeg" autoplay>
+<audio src="paranoid.mpeg" loop="false" autoplay>
 </audio>
     <button class="header-button" id="header">
         <h2 class="h-1"><u>BIENVENIDOS A MI PERFIL!!</u></h2>
@@ -24,7 +24,7 @@ include "header.php"
     <span class="s-1"><u>EMAIL:</u> lautaroivanpapaianni@gmail.com <br>
         <u>NUMERO DE TELÉFONO.-</u>+54 9 2254 53-5990
         <br>
-        WEBSITES: -en desarrollo-</span>
+        WEBSITES: BookWorms(en desarrollo)</span>
     <ul>
         <label for="skills"><u>*SKILLS*</u></label>
         <li>HTML</li>
