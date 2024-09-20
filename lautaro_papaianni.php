@@ -3,6 +3,8 @@ include "header.php"
 ?>
 
 <body class="b-g" id="background">
+<audio src="paranoid.mpeg" autoplay>
+</audio>
     <button class="header-button" id="header">
         <h2 class="h-1"><u>BIENVENIDOS A MI PERFIL!!</u></h2>
     </button>
